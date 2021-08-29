@@ -6,5 +6,8 @@ public class FirstGit{
     public static void main(){
         FirstGit git = new FirstGit();
         git.run();
+        
+        System.out.println("All over Finished");
+
     }
 }
