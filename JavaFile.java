@@ -4,10 +4,14 @@ public class FirstGit{
         System.out.println("Develop and Load it");
         }
     public static void main(){
+            
         FirstGit git = new FirstGit();
         git.run();
-        
+
+        System.out.println("thank you");
+
         System.out.println("All over Finished");
+
 
     }
 }
