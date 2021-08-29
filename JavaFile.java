@@ -7,7 +7,11 @@ public class FirstGit{
             
         FirstGit git = new FirstGit();
         git.run();
-                    System.out.println("thank you");
+
+        System.out.println("thank you");
+
+        System.out.println("All over Finished");
+
 
     }
 }
